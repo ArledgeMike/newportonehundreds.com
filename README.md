@@ -1,47 +1,14 @@
-Garden Bed
+# Newport 100s
+
+![The Newport cigarette carton](/src/resources/images/readme/readmeTitleImage.jpg)
+
+Just a tribute the Newport 100 cigarette, it's advertisements, color scheme and place in rap culture and my time copping loosey's from the Bodega on Trumbull Ave in Detroit.
+
+
 
 -REPO
-https://github.com/TopiaryCareTaker/gardenbed.git
+https://github.com/TopiaryCareTaker/newportonehundreds.com
 
-Simple front end focused web app development stack.
-
-Install all dependencies
-
--npm install
-
-Run Webpack Dev Server
-
-- npm run dev
-
-Output Topiary (index.html, css file, js file)
-
-- npm run deploy
-
-
-If you would like to include a simple style and component library:
-
-- npm install gardentools
-
--REPO for Garden Tools
-https://www.github.com/TopiaryCareTaker/gardentools.git
-
-
--Github actions
-
-.github/workflow/nodejs.yml
-On push to your repo github actions will run the deploy command create a fresh build of the topiary.
-
-
--Godaddy Pipeline deploy
-
-.cpaney.yml
-Garden bed can be connected to Godaddy repo deploy throught their cpanel. Configure this for deployemnt. The DIST folder that was built in the github actions will be deployed through the cpanel.
-
-
-
-
-
-
-
-
-
+-Source Repo (Garden Bed from Topiary Wolf)
+-REPO
+https://github.com/TopiaryCareTaker/gardenbed

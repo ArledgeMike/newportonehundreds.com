@@ -1,3 +1,11 @@
-*{
-  background-color: #666;
+$color-dark-gray: #7D8279;
+$color-light-gray: #929590;
+$color-light-green: #E8EDE4;
+$color-white: #FDFDFD;
+$color-gold: #F1A238;
+$color-dark-gold: #E09123;
+
+body{
+ background: linear-gradient(to right,
+     $color-dark-gold 20%, $color-gold 20% 40%, $color-white 40% 60%, $color-light-green 60% 80%, $color-light-gray 80% 90%, $color-dark-gray 90%);
 }
